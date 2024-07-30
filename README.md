@@ -1,4 +1,4 @@
-## Ol, meu nome é Jheniffer Camargo.
+## Ola, meu nome é Jheniffer Camargo.
 Meu email jhenicamargo08@aluno.educacao.sp.gov.br
 Estou estudando no Alura.
 Estou me desenvolvendo na linguagem JavaScript.
